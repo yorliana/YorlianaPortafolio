@@ -1,0 +1,57 @@
+
+.landing_background {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+   background: #090a0a;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    width: 100%;
+    height:  100%;
+    position: fixed;
+   align-items: 50px;
+   background-image: url("../../assets/pantalla.jpeg");
+   background-position: right;
+   background-size:100%;
+}
+ 
+.contenedor {
+   
+    margin: -40px;
+    
+}
+
+.none{
+  
+    margin-bottom: auto;
+    justify-content: end;
+}
+
+.buttonLading > p{
+   margin-bottom: end;
+    width: 200px;
+    border-radius: 100px;
+    height: 200px;
+    justify-content: center;
+    padding: 15px 30px;
+    max-width: 80px;
+    padding: 70rem;
+    
+}
+.buttonLading > img{
+    width: 200px;
+   
+    border-radius: 150px;
+   
+    justify-content: center;
+   flex-direction: row;
+
+
+}
+.buttonLading:hover{
+    background: #a511a8;
+    box-shadow: 0 0 10px #a511a8, 0 0 40px #a511a8, 0 0 80px #a511a8;
+    transform: scale(1.1);
+    border-radius: 200px;
+   
+}

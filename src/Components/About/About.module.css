@@ -1,0 +1,52 @@
+
+.about {
+
+    width: 1600px;
+    height:700px;
+    font-size: 25px;
+    font-family: monospace;
+    display:flex;
+  
+    justify-content:center;
+    align-items: center;
+    background-image: url("../../assets/Banner.png");
+    align-content: center;
+    margin-top: center;
+   
+    text-align: center;
+    text-justify: 15px;
+    flex-wrap: wrap;
+
+    }
+    #NavBarContainer{
+      background-color: #512DA8;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      color: #fefefe;
+      font-family: 'Roboto Condensed', sans-serif;
+      height: 50px;
+  
+  }
+   
+  .avatar{
+   width: 100px;
+   margin-right: 20px;
+    border-radius: 200px;
+    padding: 0.2rem;
+    justify-content: center;
+   }
+
+   .fondo{
+    margin-top: auto;
+    padding: 0.2rem;
+    margin: 50px;
+   }
+
+   .img{
+    margin-top: left;
+    justify-content: left;
+    align-items: left;
+    padding-left: 10px;
+    margin-left: 10px;
+   }

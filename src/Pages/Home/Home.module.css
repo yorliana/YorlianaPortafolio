@@ -1,0 +1,44 @@
+.home{
+    background-color: #512DA8;
+   width: auto;
+}
+.testimonios{
+    display: flex;
+    justify-content:center ;
+    align-items: left;
+    flex-direction: row;
+    width: 750px;
+    height: 500px;
+    background-color: #7E57C2 ;
+   
+   border-radius: 20px;
+}
+.titulo#p{
+    size:100px ;
+}
+ .titulo{
+    font-size: 40px;
+    font-family: monospace;
+    font-style: italic;
+    
+    color: white;
+   align-content: center;
+  
+ }   
+.contenedor{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+   background: #090a0a;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    width: 1600px;
+    height:  700px;
+    position: fixed;
+   align-items: 50px;
+   background-image: url("../../assets/svg/home.avif");
+   background-position: right;
+   background-size:100%;
+
+}
+

@@ -1,0 +1,29 @@
+#NavBarContainer{
+    background-color: #512DA8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fefefe;
+    font-family: 'Roboto Condensed', sans-serif;
+    height: 50px;
+
+}
+.skills{
+
+    width: 1600px;
+    height:800px;
+    font-size: 25px;
+    font-family: monospace;
+    display:flex;
+   
+    justify-content: center;
+    align-items: center;
+    background-image: url("../../assets/Banner.png");
+    align-content: center;
+    margin-top: center;
+   
+    text-align: center;
+    text-justify: 15px;
+    flex-wrap: wrap;
+
+    }

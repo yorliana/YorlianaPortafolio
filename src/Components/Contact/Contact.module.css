@@ -1,0 +1,73 @@
+.contact{
+
+    width: 1600px;
+    height:700px;
+    font-size: 25px;
+    font-family: monospace;
+    display:flex;
+   
+    justify-content: center;
+    align-items: center;
+    background-image: url("../../assets/opcion2.jpeg");
+    align-content: center;
+    margin-top: center;
+   
+    text-align: center;
+    text-justify: 15px;
+    flex-wrap: wrap;
+
+    }
+
+.img{
+    justify-items: left;
+   justify-content: left;
+   margin-left: 100px;
+   align-content: flex-end;
+   margin-right: auto;
+}
+.icon{
+    width: 100px;
+ 
+    overflow: auto;
+    display: flex;
+    justify-content: left;
+}
+.img{
+   
+    width: 35px;
+    flex-direction: row;
+    overflow: auto;
+    display: flex;
+    width: 100px;
+}
+    
+#NavBarContainer{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fefefe;
+    font-family: 'Roboto Condensed', sans-serif;
+    height: 50px;
+
+}
+.info{
+
+    font-size: 35px;
+    
+    background-color: #D2B4DE ;
+    
+    border-radius: 25px;
+    align-items: center;
+    justify-content: center;
+justify-content: center;
+align-content: center;
+width: auto;
+}
+.container{
+    align-items: center;
+    justify-content: center;
+justify-content: center;
+align-content: center;
+
+}
