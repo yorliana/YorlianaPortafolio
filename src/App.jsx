@@ -14,7 +14,7 @@ import MySkills from "./Components/MySkills/MySkills";
 import Intro from './Subcomponents/Intro/Intro'
 import Blog from "./Components/Blog/Blog";
 
-
+import Contact from "./Components/Contact/Contact"
 
 function App() {
   const location = useLocation();
