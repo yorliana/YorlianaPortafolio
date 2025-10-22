@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
 import { useEffect, useState } from 'react';
 import styled from 'styled-components';
-import Me from '../../assets/FotoYorli.jpg'
+import Me from '../../assets/FotoYorliana.jpg'
 import { mediaQueries } from "../Themes/Themes";
 import style from './Intro.module.css'
 
