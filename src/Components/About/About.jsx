@@ -1,7 +1,7 @@
 import React from 'react';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Card from 'react-bootstrap/Card';
+//import Card from 'react-bootstrap/Card';
 import style from '../About/About.module.css';
 import logo from '../../assets/logo.png';
 import avatarnuevo from '../../assets/avatarnuevo.png';
