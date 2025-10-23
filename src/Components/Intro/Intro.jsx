@@ -7,7 +7,7 @@ import style from './Intro.module.css'
 
 const Box = styled(motion.div)`
   /* width: 50vw;
-height:50vh;
+height:0vh;
  */
   width: 55vw;
   display: flex;
@@ -93,7 +93,7 @@ height:50vh;
 `;
 
 const SubBox = styled.div`
-  width: 50%;
+  width: 120%;
   position: relative;
   display: flex;
   .pic {
@@ -101,15 +101,17 @@ const SubBox = styled.div`
     bottom: 0;
     left: 50%;
     transform: translate(-50%, 0%);
-    width: 100%;
-    height: auto;
+    width:87%;
+    height:99%;
+    
+   
   }
   ${mediaQueries(50)`
-      width: 100%;
-    height: 50%;
+      width: 110%;
+    height:auto;
       .pic {
     
-    width: 70%;
+    width: 50%;
     
   }
 
